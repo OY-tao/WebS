@@ -12,7 +12,7 @@
 
 ## 环境要求
 * Linux
-* C++14
+* C++20
 * MySql
 
 ## 运行
@@ -20,7 +20,8 @@ make
 ./bin/server
 
 ## 压力测试
-![image-webbench](/readme.assest/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95.png)
+![image-webbench](/readme.assest/1316.png)
+![image-webbench](/readme.assest/1999.png)
 ```bash
 ./webbench-1.5/webbench -c 100 -t 10 http://ip:port/
 ./webbench-1.5/webbench -c 1000 -t 10 http://ip:port/
@@ -29,6 +30,6 @@ make
 
 ./webbench -c 100 -t 10 http://localhost:1999/
 ```
-* QPS 10000+
+* QPS 16000+
 
 
