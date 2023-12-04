@@ -1,0 +1,339 @@
+2023-08-14 22:04:16.737055 [info] : ========== Server init ==========
+2023-08-14 22:04:16.737074 [info] : Port:1316, OpenLinger: false
+2023-08-14 22:04:16.737119 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 22:04:16.737126 [info] : LogSys level: 1
+2023-08-14 22:04:16.737131 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 22:04:16.737187 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 22:04:16.737200 [info] : ========== Server start ==========
+2023-08-14 22:04:21.774670 [info] : Client[18](127.0.0.1:15533) in, userCount:1
+2023-08-14 22:04:21.774743 [info] : Client[18] in!
+2023-08-14 22:04:21.774770 [info] : Client[20](127.0.0.1:18093) in, userCount:2
+2023-08-14 22:04:21.774790 [info] : Client[20] in!
+2023-08-14 22:04:22.035026 [info] : Client[21](127.0.0.1:19117) in, userCount:3
+2023-08-14 22:04:22.035082 [info] : Client[21] in!
+2023-08-14 22:04:22.126915 [info] : Client[23](127.0.0.1:23213) in, userCount:4
+2023-08-14 22:04:22.126943 [info] : Client[23] in!
+2023-08-14 22:04:22.126978 [info] : Client[25](127.0.0.1:26285) in, userCount:5
+2023-08-14 22:04:22.126998 [info] : Client[25] in!
+2023-08-14 22:04:22.159694 [info] : Client[26](127.0.0.1:30381) in, userCount:6
+2023-08-14 22:04:22.159719 [info] : Client[26] in!
+2023-08-14 22:04:44.054120 [info] : Client[27](127.0.0.1:15564) in, userCount:7
+2023-08-14 22:04:44.054176 [info] : Client[27] in!
+2023-08-14 22:05:00.064142 [error]: RequestLine Error
+2023-08-14 22:05:00.064268 [info] : Client[20] quit!
+2023-08-14 22:05:00.064334 [info] : Client[20](127.0.0.1:18093) quit, UserCount:6
+2023-08-14 22:05:11.394201 [info] : Client[20](127.0.0.1:6869) in, userCount:7
+2023-08-14 22:05:11.394254 [info] : Client[20] in!
+2023-08-14 22:05:43.565435 [info] : Client[23] quit!
+2023-08-14 22:05:43.566862 [info] : Client[23](127.0.0.1:23213) quit, UserCount:6
+2023-08-14 22:06:11.159472 [info] : Client[21] quit!
+2023-08-14 22:06:11.159579 [info] : Client[21](127.0.0.1:19117) quit, UserCount:5
+2023-08-14 22:06:11.159610 [info] : Client[26] quit!
+2023-08-14 22:06:11.159650 [info] : Client[26](127.0.0.1:30381) quit, UserCount:4
+2023-08-14 22:06:11.159676 [info] : Client[27] quit!
+2023-08-14 22:06:11.159710 [info] : Client[27](127.0.0.1:15564) quit, UserCount:3
+2023-08-14 22:06:11.182785 [info] : Client[25] quit!
+2023-08-14 22:06:11.182847 [info] : Client[25](127.0.0.1:26285) quit, UserCount:2
+2023-08-14 22:06:11.182874 [info] : Client[18] quit!
+2023-08-14 22:06:11.182909 [info] : Client[18](127.0.0.1:15533) quit, UserCount:1
+2023-08-14 22:06:11.394147 [info] : Client[20] quit!
+2023-08-14 22:06:11.394217 [info] : Client[20](127.0.0.1:6869) quit, UserCount:0
+2023-08-14 22:06:17.250871 [info] : Client[18](127.0.0.1:36044) in, userCount:1
+2023-08-14 22:06:17.250910 [info] : Client[18] in!
+2023-08-14 22:06:17.250930 [info] : Client[20](127.0.0.1:39628) in, userCount:2
+2023-08-14 22:06:17.250948 [info] : Client[20] in!
+2023-08-14 22:06:17.398018 [info] : Client[21](127.0.0.1:40652) in, userCount:3
+2023-08-14 22:06:17.398044 [info] : Client[21] in!
+2023-08-14 22:06:17.601642 [info] : Client[23](127.0.0.1:43724) in, userCount:4
+2023-08-14 22:06:17.601668 [info] : Client[23] in!
+2023-08-14 22:06:17.621598 [info] : Client[25](127.0.0.1:46796) in, userCount:5
+2023-08-14 22:06:17.621620 [info] : Client[25] in!
+2023-08-14 22:06:17.621666 [info] : Client[26](127.0.0.1:49356) in, userCount:6
+2023-08-14 22:06:17.621684 [info] : Client[26] in!
+2023-08-14 22:06:19.572023 [info] : Client[20] quit!
+2023-08-14 22:06:19.572090 [info] : Client[20](127.0.0.1:39628) quit, UserCount:5
+2023-08-14 22:06:19.572352 [info] : Client[18] quit!
+2023-08-14 22:06:19.572394 [info] : Client[18](127.0.0.1:36044) quit, UserCount:4
+2023-08-14 22:06:19.572722 [info] : Client[26] quit!
+2023-08-14 22:06:19.572757 [info] : Client[26](127.0.0.1:49356) quit, UserCount:3
+2023-08-14 22:06:19.572921 [info] : Client[21] quit!
+2023-08-14 22:06:19.572968 [info] : Client[21](127.0.0.1:40652) quit, UserCount:2
+2023-08-14 22:06:19.572989 [info] : Client[23] quit!
+2023-08-14 22:06:19.573018 [info] : Client[23](127.0.0.1:43724) quit, UserCount:1
+2023-08-14 22:06:19.573042 [info] : Client[25] quit!
+2023-08-14 22:06:19.573085 [info] : Client[25](127.0.0.1:46796) quit, UserCount:0
+2023-08-14 22:06:23.269987 [info] : Client[18](127.0.0.1:37027) in, userCount:1
+2023-08-14 22:06:23.270045 [info] : Client[18] in!
+2023-08-14 22:06:23.277896 [info] : Client[20](127.0.0.1:40099) in, userCount:2
+2023-08-14 22:06:23.277921 [info] : Client[20] in!
+2023-08-14 22:06:23.277953 [info] : Client[21](127.0.0.1:41635) in, userCount:3
+2023-08-14 22:06:23.277971 [info] : Client[21] in!
+2023-08-14 22:06:23.278139 [info] : Client[23](127.0.0.1:43171) in, userCount:4
+2023-08-14 22:06:23.278158 [info] : Client[23] in!
+2023-08-14 22:06:23.278206 [info] : Client[25](127.0.0.1:46755) in, userCount:5
+2023-08-14 22:06:23.278224 [info] : Client[25] in!
+2023-08-14 22:06:23.518609 [info] : Client[26](127.0.0.1:49315) in, userCount:6
+2023-08-14 22:06:23.518633 [info] : Client[26] in!
+2023-08-14 22:06:31.784333 [error]: RequestLine Error
+2023-08-14 22:06:31.784446 [info] : Client[25] quit!
+2023-08-14 22:06:31.784516 [info] : Client[25](127.0.0.1:46755) quit, UserCount:5
+2023-08-14 22:07:23.322480 [info] : Client[18] quit!
+2023-08-14 22:07:23.322594 [info] : Client[18](127.0.0.1:37027) quit, UserCount:4
+2023-08-14 22:07:23.322627 [info] : Client[20] quit!
+2023-08-14 22:07:23.322664 [info] : Client[20](127.0.0.1:40099) quit, UserCount:3
+2023-08-14 22:07:23.322689 [info] : Client[21] quit!
+2023-08-14 22:07:23.322725 [info] : Client[21](127.0.0.1:41635) quit, UserCount:2
+2023-08-14 22:07:23.517946 [info] : Client[26] quit!
+2023-08-14 22:07:23.517988 [info] : Client[26](127.0.0.1:49315) quit, UserCount:1
+2023-08-14 22:07:27.314649 [info] : Client[23] quit!
+2023-08-14 22:07:27.314718 [info] : Client[23](127.0.0.1:43171) quit, UserCount:0
+2023-08-14 22:07:31.788218 [info] : Client[25] quit!
+2023-08-14 22:25:56.479512 [info] : ========== Server init ==========
+2023-08-14 22:25:56.479530 [info] : Port:1316, OpenLinger: false
+2023-08-14 22:25:56.479566 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 22:25:56.479621 [info] : LogSys level: 1
+2023-08-14 22:25:56.479643 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 22:25:56.479665 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 22:25:56.479687 [info] : ========== Server start ==========
+2023-08-14 22:26:01.447243 [info] : Client[18](127.0.0.1:51913) in, userCount:1
+2023-08-14 22:26:01.447300 [info] : Client[18] in!
+2023-08-14 22:26:01.447765 [info] : Client[20](127.0.0.1:56009) in, userCount:2
+2023-08-14 22:26:01.447789 [info] : Client[20] in!
+2023-08-14 22:26:02.007874 [info] : Client[21](127.0.0.1:57545) in, userCount:3
+2023-08-14 22:26:02.007916 [info] : Client[21] in!
+2023-08-14 22:26:02.019981 [info] : Client[23](127.0.0.1:58057) in, userCount:4
+2023-08-14 22:26:02.020010 [info] : Client[23] in!
+2023-08-14 22:26:02.035492 [info] : Client[25](127.0.0.1:60105) in, userCount:5
+2023-08-14 22:26:02.035520 [info] : Client[25] in!
+2023-08-14 22:26:02.035549 [info] : Client[26](127.0.0.1:62153) in, userCount:6
+2023-08-14 22:26:02.035574 [info] : Client[26] in!
+2023-08-14 22:26:24.391088 [error]: RequestLine Error
+2023-08-14 22:26:24.391233 [info] : Client[18] quit!
+2023-08-14 22:26:24.391314 [info] : Client[18](127.0.0.1:51913) quit, UserCount:5
+2023-08-14 22:27:18.885485 [info] : Client[26] quit!
+2023-08-14 22:27:18.885596 [info] : Client[26](127.0.0.1:62153) quit, UserCount:4
+2023-08-14 22:27:18.885620 [info] : Client[21] quit!
+2023-08-14 22:27:18.885656 [info] : Client[21](127.0.0.1:57545) quit, UserCount:3
+2023-08-14 22:27:18.885682 [info] : Client[23] quit!
+2023-08-14 22:27:18.885728 [info] : Client[23](127.0.0.1:58057) quit, UserCount:2
+2023-08-14 22:27:18.905804 [info] : Client[20] quit!
+2023-08-14 22:27:18.905846 [info] : Client[20](127.0.0.1:56009) quit, UserCount:1
+2023-08-14 22:27:24.396367 [info] : Client[18] quit!
+2023-08-14 22:27:24.431480 [info] : Client[25] quit!
+2023-08-14 22:39:14.536945 [info] : ========== Server init ==========
+2023-08-14 22:39:14.536963 [info] : Port:1316, OpenLinger: false
+2023-08-14 22:39:14.537011 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 22:39:14.537018 [info] : LogSys level: 1
+2023-08-14 22:39:14.537023 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 22:39:14.537030 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 22:39:14.537036 [info] : ========== Server start ==========
+2023-08-14 22:39:18.685531 [info] : Client[18](127.0.0.1:4773) in, userCount:1
+2023-08-14 22:39:18.685605 [info] : Client[18] in!
+2023-08-14 22:39:18.686154 [info] : Client[20](127.0.0.1:7845) in, userCount:2
+2023-08-14 22:39:18.686179 [info] : Client[20] in!
+2023-08-14 22:39:18.936342 [info] : Client[21](127.0.0.1:9381) in, userCount:3
+2023-08-14 22:39:18.936394 [info] : Client[21] in!
+2023-08-14 22:39:19.029050 [info] : Client[23](127.0.0.1:11429) in, userCount:4
+2023-08-14 22:39:19.029076 [info] : Client[23] in!
+2023-08-14 22:39:19.033581 [info] : Client[25](127.0.0.1:15013) in, userCount:5
+2023-08-14 22:39:19.033604 [info] : Client[25] in!
+2023-08-14 22:39:19.064093 [info] : Client[26](127.0.0.1:18597) in, userCount:6
+2023-08-14 22:39:19.064120 [info] : Client[26] in!
+2023-08-14 22:39:25.338768 [error]: RequestLine Error
+2023-08-14 22:39:25.338892 [info] : Client[26] quit!
+2023-08-14 22:39:25.338948 [info] : Client[26](127.0.0.1:18597) quit, UserCount:5
+2023-08-14 22:40:21.535297 [info] : Client[20] quit!
+2023-08-14 22:40:21.535403 [info] : Client[20](127.0.0.1:7845) quit, UserCount:4
+2023-08-14 22:40:21.535429 [info] : Client[18] quit!
+2023-08-14 22:40:21.535465 [info] : Client[18](127.0.0.1:4773) quit, UserCount:3
+2023-08-14 22:40:21.535493 [info] : Client[25] quit!
+2023-08-14 22:40:21.535531 [info] : Client[25](127.0.0.1:15013) quit, UserCount:2
+2023-08-14 22:40:21.535554 [info] : Client[21] quit!
+2023-08-14 22:40:21.535589 [info] : Client[21](127.0.0.1:9381) quit, UserCount:1
+2023-08-14 22:40:25.342423 [info] : Client[26] quit!
+2023-08-14 22:40:25.375523 [info] : Client[23] quit!
+2023-08-14 22:40:25.375573 [info] : Client[23](127.0.0.1:11429) quit, UserCount:0
+2023-08-14 22:41:07.426660 [info] : Client[18](127.0.0.1:53397) in, userCount:1
+2023-08-14 22:41:07.426717 [info] : Client[18] in!
+2023-08-14 22:41:07.426739 [info] : Client[20](127.0.0.1:54421) in, userCount:2
+2023-08-14 22:41:07.426757 [info] : Client[20] in!
+2023-08-14 22:41:07.678715 [info] : Client[21](127.0.0.1:55445) in, userCount:3
+2023-08-14 22:41:07.678742 [info] : Client[21] in!
+2023-08-14 22:41:07.783295 [info] : Client[23](127.0.0.1:56981) in, userCount:4
+2023-08-14 22:41:07.783319 [info] : Client[23] in!
+2023-08-14 22:41:07.787848 [info] : Client[25](127.0.0.1:59029) in, userCount:5
+2023-08-14 22:41:07.787870 [info] : Client[25] in!
+2023-08-14 22:41:07.788201 [info] : Client[26](127.0.0.1:61077) in, userCount:6
+2023-08-14 22:41:07.788220 [info] : Client[26] in!
+2023-08-14 22:41:11.495076 [error]: RequestLine Error
+2023-08-14 22:41:11.495195 [info] : Client[21] quit!
+2023-08-14 22:41:11.495254 [info] : Client[21](127.0.0.1:55445) quit, UserCount:5
+2023-08-14 22:41:16.888641 [info] : Client[21](127.0.0.1:20132) in, userCount:6
+2023-08-14 22:41:16.888690 [info] : Client[21] in!
+2023-08-14 22:41:20.575946 [error]: RequestLine Error
+2023-08-14 22:41:20.576051 [info] : Client[23] quit!
+2023-08-14 22:41:20.576109 [info] : Client[23](127.0.0.1:56981) quit, UserCount:5
+2023-08-14 22:41:27.837243 [info] : Client[23](127.0.0.1:40122) in, userCount:6
+2023-08-14 22:41:27.837296 [info] : Client[23] in!
+2023-08-14 22:42:27.617059 [info] : Client[26] quit!
+2023-08-14 22:42:27.617153 [info] : Client[26](127.0.0.1:61077) quit, UserCount:5
+2023-08-14 22:42:27.617178 [info] : Client[18] quit!
+2023-08-14 22:42:27.617217 [info] : Client[18](127.0.0.1:53397) quit, UserCount:4
+2023-08-14 22:42:27.617243 [info] : Client[21] quit!
+2023-08-14 22:42:27.617279 [info] : Client[21](127.0.0.1:20132) quit, UserCount:3
+2023-08-14 22:42:27.617303 [info] : Client[20] quit!
+2023-08-14 22:42:27.617337 [info] : Client[20](127.0.0.1:54421) quit, UserCount:2
+2023-08-14 22:42:27.617361 [info] : Client[25] quit!
+2023-08-14 22:42:27.617396 [info] : Client[25](127.0.0.1:59029) quit, UserCount:1
+2023-08-14 22:42:27.836651 [info] : Client[23] quit!
+2023-08-14 22:42:27.836703 [info] : Client[23](127.0.0.1:40122) quit, UserCount:0
+2023-08-14 22:43:16.058368 [info] : Client[18](127.0.0.1:30402) in, userCount:1
+2023-08-14 22:43:16.058426 [info] : Client[18] in!
+2023-08-14 22:43:16.058448 [info] : Client[20](127.0.0.1:31426) in, userCount:2
+2023-08-14 22:43:16.058466 [info] : Client[20] in!
+2023-08-14 22:43:16.255966 [info] : Client[21](127.0.0.1:33474) in, userCount:3
+2023-08-14 22:43:16.255991 [info] : Client[21] in!
+2023-08-14 22:43:16.421494 [info] : Client[23](127.0.0.1:35522) in, userCount:4
+2023-08-14 22:43:16.421543 [info] : Client[23] in!
+2023-08-14 22:43:16.421574 [info] : Client[25](127.0.0.1:38082) in, userCount:5
+2023-08-14 22:43:16.421600 [info] : Client[25] in!
+2023-08-14 22:43:16.443948 [info] : Client[26](127.0.0.1:40642) in, userCount:6
+2023-08-14 22:43:16.443984 [info] : Client[26] in!
+2023-08-14 22:43:20.255235 [error]: RequestLine Error
+2023-08-14 22:43:20.255353 [info] : Client[18] quit!
+2023-08-14 22:43:20.255411 [info] : Client[18](127.0.0.1:30402) quit, UserCount:5
+2023-08-14 22:43:54.396828 [info] : Client[18](127.0.0.1:7309) in, userCount:6
+2023-08-14 22:43:54.396874 [info] : Client[18] in!
+2023-08-14 22:44:16.593667 [error]: RequestLine Error
+2023-08-14 22:44:16.593804 [info] : Client[26] quit!
+2023-08-14 22:44:16.593869 [info] : Client[26](127.0.0.1:40642) quit, UserCount:5
+2023-08-14 22:44:37.472117 [info] : Client[26](127.0.0.1:38594) in, userCount:6
+2023-08-14 22:44:37.472172 [info] : Client[26] in!
+2023-08-14 22:45:37.279962 [info] : Client[23] quit!
+2023-08-14 22:45:37.280044 [info] : Client[23](127.0.0.1:35522) quit, UserCount:5
+2023-08-14 22:45:37.280069 [info] : Client[25] quit!
+2023-08-14 22:45:37.280106 [info] : Client[25](127.0.0.1:38082) quit, UserCount:4
+2023-08-14 22:45:37.280132 [info] : Client[20] quit!
+2023-08-14 22:45:37.280167 [info] : Client[20](127.0.0.1:31426) quit, UserCount:3
+2023-08-14 22:45:37.280191 [info] : Client[18] quit!
+2023-08-14 22:45:37.280222 [info] : Client[18](127.0.0.1:7309) quit, UserCount:2
+2023-08-14 22:45:37.280245 [info] : Client[21] quit!
+2023-08-14 22:45:37.280279 [info] : Client[21](127.0.0.1:33474) quit, UserCount:1
+2023-08-14 22:45:37.471496 [info] : Client[26] quit!
+2023-08-14 22:45:37.471537 [info] : Client[26](127.0.0.1:38594) quit, UserCount:0
+2023-08-14 22:45:54.872426 [info] : Client[18](127.0.0.1:54956) in, userCount:1
+2023-08-14 22:45:54.872474 [info] : Client[18] in!
+2023-08-14 22:45:54.874291 [error]: RequestLine Error
+2023-08-14 22:45:54.874418 [info] : Client[18] quit!
+2023-08-14 22:45:54.874484 [info] : Client[18](127.0.0.1:54956) quit, UserCount:0
+2023-08-14 22:45:54.877065 [info] : Client[18](127.0.0.1:55468) in, userCount:1
+2023-08-14 22:45:54.877090 [info] : Client[18] in!
+2023-08-14 22:45:55.112022 [info] : Client[20](127.0.0.1:58028) in, userCount:2
+2023-08-14 22:45:55.112047 [info] : Client[20] in!
+2023-08-14 22:46:54.987899 [info] : Client[18] quit!
+2023-08-14 22:46:54.987993 [info] : Client[18](127.0.0.1:55468) quit, UserCount:1
+2023-08-14 22:46:55.112150 [info] : Client[20] quit!
+2023-08-14 22:49:50.795414 [info] : ========== Server init ==========
+2023-08-14 22:49:50.795430 [info] : Port:1316, OpenLinger: false
+2023-08-14 22:49:50.795472 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 22:49:50.795521 [info] : LogSys level: 1
+2023-08-14 22:49:50.795544 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 22:49:50.795565 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 22:49:50.795586 [info] : ========== Server start ==========
+2023-08-14 22:49:55.857634 [info] : Client[18](127.0.0.1:62176) in, userCount:1
+2023-08-14 22:49:55.857697 [info] : Client[18] in!
+2023-08-14 22:49:55.859761 [error]: RequestLine Error
+2023-08-14 22:49:55.859880 [info] : Client[18] quit!
+2023-08-14 22:49:55.859941 [info] : Client[18](127.0.0.1:62176) quit, UserCount:0
+2023-08-14 22:49:55.866019 [info] : Client[18](127.0.0.1:225) in, userCount:1
+2023-08-14 22:49:55.866060 [info] : Client[18] in!
+2023-08-14 22:49:55.983586 [info] : Client[20](127.0.0.1:737) in, userCount:2
+2023-08-14 22:49:55.983630 [info] : Client[20] in!
+2023-08-14 22:49:58.151687 [info] : Client[21](127.0.0.1:4833) in, userCount:3
+2023-08-14 22:49:58.151727 [info] : Client[21] in!
+2023-08-14 22:49:58.152823 [info] : Client[23](127.0.0.1:7905) in, userCount:4
+2023-08-14 22:49:58.152845 [info] : Client[23] in!
+2023-08-14 22:49:58.154624 [info] : Client[25](127.0.0.1:12001) in, userCount:5
+2023-08-14 22:49:58.154648 [info] : Client[25] in!
+2023-08-14 22:49:58.155321 [info] : Client[26](127.0.0.1:16097) in, userCount:6
+2023-08-14 22:49:58.155339 [info] : Client[26] in!
+2023-08-14 22:50:01.156724 [error]: RequestLine Error
+2023-08-14 22:50:01.156819 [info] : Client[20] quit!
+2023-08-14 22:50:01.156865 [info] : Client[20](127.0.0.1:737) quit, UserCount:5
+2023-08-14 22:50:58.190498 [info] : Client[21] quit!
+2023-08-14 22:50:58.190583 [info] : Client[21](127.0.0.1:4833) quit, UserCount:4
+2023-08-14 22:50:58.190607 [info] : Client[23] quit!
+2023-08-14 22:50:58.190637 [info] : Client[23](127.0.0.1:7905) quit, UserCount:3
+2023-08-14 22:50:58.190664 [info] : Client[25] quit!
+2023-08-14 22:50:58.190695 [info] : Client[25](127.0.0.1:12001) quit, UserCount:2
+2023-08-14 22:50:58.190719 [info] : Client[26] quit!
+2023-08-14 22:50:58.190748 [info] : Client[26](127.0.0.1:16097) quit, UserCount:1
+2023-08-14 22:51:01.159746 [info] : Client[20] quit!
+2023-08-14 22:51:01.172839 [info] : Client[18] quit!
+2023-08-14 23:08:17.257813 [info] : ========== Server init ==========
+2023-08-14 23:08:17.257829 [info] : Port:1316, OpenLinger: false
+2023-08-14 23:08:17.257869 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 23:08:17.257917 [info] : LogSys level: 1
+2023-08-14 23:08:17.257939 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 23:08:17.257961 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 23:08:17.257982 [info] : ========== Server start ==========
+2023-08-14 23:08:30.796598 [info] : Client[18](127.0.0.1:29912) in, userCount:1
+2023-08-14 23:08:30.796660 [info] : Client[18] in!
+2023-08-14 23:08:30.796691 [info] : Client[20](127.0.0.1:34008) in, userCount:2
+2023-08-14 23:08:30.796712 [info] : Client[20] in!
+2023-08-14 23:08:31.063360 [info] : Client[21](127.0.0.1:36056) in, userCount:3
+2023-08-14 23:08:31.063387 [info] : Client[21] in!
+2023-08-14 23:08:32.388486 [error]: RequestLine Error
+2023-08-14 23:08:32.388618 [info] : Client[18] quit!
+2023-08-14 23:08:32.388685 [info] : Client[18](127.0.0.1:29912) quit, UserCount:2
+2023-08-14 23:09:31.122026 [info] : Client[21] quit!
+2023-08-14 23:09:31.122124 [info] : Client[21](127.0.0.1:36056) quit, UserCount:1
+2023-08-14 23:09:32.389441 [info] : Client[18] quit!
+2023-08-14 23:09:32.407562 [info] : Client[20] quit!
+2023-08-14 23:12:15.438617 [info] : ========== Server init ==========
+2023-08-14 23:12:15.438632 [info] : Port:1316, OpenLinger: false
+2023-08-14 23:12:15.438673 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 23:12:15.438722 [info] : LogSys level: 1
+2023-08-14 23:12:15.438749 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 23:12:15.438777 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 23:12:15.438803 [info] : ========== Server start ==========
+2023-08-14 23:12:19.049441 [info] : Client[18](127.0.0.1:46764) in, userCount:1
+2023-08-14 23:12:19.049499 [info] : Client[18] in!
+2023-08-14 23:12:19.050431 [info] : Client[20](127.0.0.1:49324) in, userCount:2
+2023-08-14 23:12:19.050458 [info] : Client[20] in!
+2023-08-14 23:12:19.051242 [info] : Client[21](127.0.0.1:52908) in, userCount:3
+2023-08-14 23:12:19.051264 [info] : Client[21] in!
+2023-08-14 23:12:19.052392 [info] : Client[23](127.0.0.1:54956) in, userCount:4
+2023-08-14 23:12:19.052415 [info] : Client[23] in!
+2023-08-14 23:12:19.054174 [info] : Client[25](127.0.0.1:57516) in, userCount:5
+2023-08-14 23:12:19.054226 [info] : Client[25] in!
+2023-08-14 23:12:19.322155 [info] : Client[26](127.0.0.1:58540) in, userCount:6
+2023-08-14 23:12:19.322188 [info] : Client[26] in!
+2023-08-14 23:12:19.813717 [error]: RequestLine Error
+2023-08-14 23:12:19.813835 [info] : Client[25] quit!
+2023-08-14 23:12:19.813897 [info] : Client[25](127.0.0.1:57516) quit, UserCount:5
+2023-08-14 23:13:19.109682 [info] : Client[18] quit!
+2023-08-14 23:13:19.109802 [info] : Client[18](127.0.0.1:46764) quit, UserCount:4
+2023-08-14 23:13:19.109831 [info] : Client[20] quit!
+2023-08-14 23:13:19.109881 [info] : Client[20](127.0.0.1:49324) quit, UserCount:3
+2023-08-14 23:13:19.109910 [info] : Client[21] quit!
+2023-08-14 23:13:19.109950 [info] : Client[21](127.0.0.1:52908) quit, UserCount:2
+2023-08-14 23:13:19.322198 [info] : Client[26] quit!
+2023-08-14 23:13:19.322272 [info] : Client[26](127.0.0.1:58540) quit, UserCount:1
+2023-08-14 23:13:19.813798 [info] : Client[25] quit!
+2023-08-14 23:13:19.833892 [info] : Client[23] quit!
+2023-08-14 23:39:54.735920 [info] : ========== Server init ==========
+2023-08-14 23:39:54.735935 [info] : Port:1316, OpenLinger: false
+2023-08-14 23:39:54.735985 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-08-14 23:39:54.735992 [info] : LogSys level: 1
+2023-08-14 23:39:54.736013 [info] : srcDir: /home/siat/yt/WS/WebServer-master/resources/
+2023-08-14 23:39:54.736056 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-08-14 23:39:54.736076 [info] : ========== Server start ==========
+2023-08-14 23:39:59.055582 [info] : Client[18](127.0.0.1:43165) in, userCount:1
+2023-08-14 23:39:59.055644 [info] : Client[18] in!
+2023-08-14 23:39:59.057882 [error]: RequestLine Error
+2023-08-14 23:39:59.058048 [info] : Client[18] quit!
+2023-08-14 23:39:59.058139 [info] : Client[18](127.0.0.1:43165) quit, UserCount:0
+2023-08-14 23:39:59.414570 [info] : Client[18](127.0.0.1:47261) in, userCount:1
+2023-08-14 23:39:59.414602 [info] : Client[18] in!
+2023-08-14 23:40:59.474793 [info] : Client[18] quit!

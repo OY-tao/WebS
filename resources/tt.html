@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text Popup</title>
+  <style>
+    /* Center the popup */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    /* Popup styling */
+    .popup {
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 20px;
+      box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+      max-width: 400px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <!-- Popup content -->
+  <div class="popup">
+    <h2>Hello, welcome to use the DNA encoding!</h2>
+    <p>This is the result of DNA encoding.</p>
+    <p><iframe name="show" id="show" width="300" height="100" src="ss.txt"/>
+    </iframe></p>
+    <p><a href="ss.txt" download="downloaded_file.txt">Download File</a></p>
+    <button onclick="closePopup()">Close</button>
+  </div>
+
+  <!-- JavaScript to close the popup -->
+  <script>
+    function closePopup() {
+      const popup = document.querySelector('.popup');
+      popup.style.display = 'none';
+      window.location.href="/text"
+    }
+  </script>
+</body>
+</html>
